@@ -12,20 +12,20 @@
 
 ## Tecnologías y Herramientas
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
-![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=000000&logo=JavaScript)
+![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=000000&logo=TypeScript)
+![Python](https://img.shields.io/static/v1?label=&message=Python&color=000000&logo=Python)
+![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=000000&logo=PHP)
+![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=000000&logo=HTML5)
+![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=000000&logo=CSS3)
+![React](https://img.shields.io/static/v1?label=&message=React&color=000000&logo=React)
+![Redux](https://img.shields.io/static/v1?label=&message=Redux&color=000000&logo=Redux)
+![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=000000&logo=Angular)
+![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=Flask)
+![Symfony](https://img.shields.io/static/v1?label=&message=Symfony&color=000000&logo=Symfony)
+![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=000000&logo=Node.js)
+![Git](https://img.shields.io/static/v1?label=&message=Git&color=000000&logo=Git)
+![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=000000&logo=GitHub)
 
 ---
 
