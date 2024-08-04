@@ -2,13 +2,13 @@
 
 ### Desarrollador Fullstack Junior | Entusiasta de la Tecnología
 
----
+
 
 ## Acerca de mí
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador Fullstack apasionado por la creación de soluciones innovadoras y eficientes. Tengo experiencia en una variedad de lenguajes de programación y tecnologías, y siempre estoy buscando aprender y mejorar mis habilidades.
 
----
+
 
 ## Tecnologías y Herramientas
 
@@ -27,13 +27,13 @@
 ![Git](https://img.shields.io/static/v1?label=&message=Git&color=000000&logo=Git)
 ![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=000000&logo=GitHub)
 
----
+
 
 ## Contáctame
 
 - [LinkedIn](https://www.linkedin.com/in/alvaro-mor%C3%B3n-gonz%C3%A1lez-a232a9168/)
 - 📩 Correo Electrónico: alvaromoron27@gmail.com
 - 📍 Ubicación: Moraleja, Cáceres, España
----
+
 
 ¡Gracias por visitar mi perfil! Siéntete libre de explorar mis repositorios y proyectos.
