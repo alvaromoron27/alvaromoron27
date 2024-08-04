@@ -12,20 +12,20 @@
 
 ## Tecnologías y Herramientas
 
-![JavaScript](https://img.icons8.com/ios-filled/50/000000/javascript.png)
-![TypeScript](https://img.icons8.com/ios-filled/50/000000/typescript.png)
-![Python](https://img.icons8.com/ios-filled/50/000000/python.png)
-![PHP](https://img.icons8.com/ios-filled/50/000000/php.png)
-![HTML5](https://img.icons8.com/ios-filled/50/000000/html-5.png)
-![CSS3](https://img.icons8.com/ios-filled/50/000000/css3.png)
-![React](https://img.icons8.com/ios-filled/50/000000/react.png)
-![Redux](https://img.icons8.com/ios-filled/50/000000/redux.png)
-![Angular](https://img.icons8.com/ios-filled/50/000000/angular.png)
-![Flask](https://img.icons8.com/ios-filled/50/000000/flask.png)
-![Symfony](https://img.icons8.com/ios-filled/50/000000/symfony.png)
-![Node.js](https://img.icons8.com/ios-filled/50/000000/nodejs.png)
-![Git](https://img.icons8.com/ios-filled/50/000000/git.png)
-![GitHub](https://img.icons8.com/ios-filled/50/000000/github.png)
+![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=000000&logo=JavaScript)
+![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=000000&logo=TypeScript)
+![Python](https://img.shields.io/static/v1?label=&message=Python&color=000000&logo=Python)
+![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=000000&logo=PHP)
+![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=000000&logo=HTML5)
+![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=000000&logo=CSS3)
+![React](https://img.shields.io/static/v1?label=&message=React&color=000000&logo=React)
+![Redux](https://img.shields.io/static/v1?label=&message=Redux&color=000000&logo=Redux)
+![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=000000&logo=Angular)
+![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=Flask)
+![Symfony](https://img.shields.io/static/v1?label=&message=Symfony&color=000000&logo=Symfony)
+![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=000000&logo=Node.js)
+![Git](https://img.shields.io/static/v1?label=&message=Git&color=000000&logo=Git)
+![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=000000&logo=GitHub)
 
 ---
 
