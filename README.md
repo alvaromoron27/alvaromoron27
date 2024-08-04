@@ -31,7 +31,7 @@
 
 ## Contáctame
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tuusuario/](https://www.linkedin.com/in/alvaro-mor%C3%B3n-gonz%C3%A1lez-a232a9168/))
+- [LinkedIn]([https://www.linkedin.com/in/tuusuario/](https://www.linkedin.com/in/alvaro-mor%C3%B3n-gonz%C3%A1lez-a232a9168/))
 - 📩 Correo Electrónico: alvaromoron27@gmail.com
 - 📍 Ubicación: Moraleja, Cáceres, España
 ---
