@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Álvaro
 
-### Desarrollador Fullstack Junior | Entusiasta de la Tecnología | Moraleja, Cáceres, España
+### Desarrollador Fullstack Junior | Entusiasta de la Tecnología
 
 ---
 
@@ -32,8 +32,8 @@
 ## Contáctame
 
 - [LinkedIn](https://www.linkedin.com/in/alvaro-mor%C3%B3n-gonz%C3%A1lez-a232a9168/)
-- Correo Electrónico: alvaromoron27@gmail.com
-
+- 📩 Correo Electrónico: alvaromoron27@gmail.com
+- 📍 Ubicación: Moraleja, Cáceres, España
 ---
 
 ¡Gracias por visitar mi perfil! Siéntete libre de explorar mis repositorios y proyectos.
