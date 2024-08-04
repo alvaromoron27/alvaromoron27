@@ -32,7 +32,7 @@
 
 ## Contáctame
 
-- [LinkedIn](https://www.linkedin.com/in/tuusuario/](https://www.linkedin.com/in/alvaro-mor%C3%B3n-gonz%C3%A1lez-a232a9168/))
+- [LinkedIn](https://www.linkedin.com/in/alvaro-mor%C3%B3n-gonz%C3%A1lez-a232a9168/)
 - [Correo Electrónico](mailto:alvaromoron27@gmail.com)
 
 ---
